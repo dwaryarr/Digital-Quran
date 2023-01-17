@@ -1,3 +1,3 @@
-# d-quran - PENDING!
+# d-quran - WIP 🔥
 inspired by quran.kemenag.go.id
 ref API : https://equran.id/apidev
