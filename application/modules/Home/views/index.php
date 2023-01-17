@@ -133,7 +133,8 @@
                 <div class="row d-flex align-items-center">
                     <div class="col-md-7 col-lg-8 text-center text-md-start">
                         <div class="p-3">
-                            © 2023 Developed by
+                            © 2023 Developed with <i class="text-danger fa-solid fa-heart fa-beat"
+                            style="--fa-animation-duration: 2s;"></i> by
                             <a class="text-white text-decoration-none" href="#">dwaryarr</a>
                         </div>
                     </div>
